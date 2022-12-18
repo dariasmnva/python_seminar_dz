@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a6aadd-08af-4abd-a5d3-6c61f321a70c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/print_data.py" afterDir="false" />
+    <list default="true" id="44a6aadd-08af-4abd-a5d3-6c61f321a70c" name="Changes" comment="Seminar_7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Даша учеба/АНАЛИТИКА ЦП/введение в прог/python/seminar_dz/seminar_7"
+    "last_opened_file_path": "C:/Даша учеба/АНАЛИТИКА ЦП/введение в прог/python/seminar_dz/seminar_8"
   }
 }]]></component>
   <component name="RunManager">
@@ -72,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671381345599</updated>
     </task>
+    <task id="LOCAL-00001" summary="Seminar_7">
+      <created>1671382240898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671382240898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seminar_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar_7" />
   </component>
 </project>
